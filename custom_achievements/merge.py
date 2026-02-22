@@ -6,6 +6,7 @@ source_paths = [
     "clean_mt.csv",
     "clean_retro.csv",
     "clean_md.csv",
+    "clean_td.csv",
 ]
 
 out_path = "royaleapi_custom_achievements_items.csv"
