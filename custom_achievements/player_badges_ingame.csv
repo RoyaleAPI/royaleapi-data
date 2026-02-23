@@ -1,0 +1,26 @@
+key,is_important,popup_line_1_fmt,popup_line_2_fmt,text_fmt,use_text,css_text_class,css_fg_class,css_bg_class,has_levels,bg_has_levels,popup_link_path
+2v2,0,,{Lvl} {level}: {progress} / {target},,0,,2v2,,1,1,/players/stats/2v2
+2xElixir,0,,{Lvl} {level}: {progress} / {target},,0,,double-elixir,bg-white,1,1,/players/stats/double_elixir
+BannerCollection,1,,{Lvl} {level}: {progress} / {target},{progress},1,white_text,,bg-banners,1,0,/players/stats/banner_collection
+BattleWins,0,,{Lvl} {level}: {progress} / {target},,0,,battle-wins,bg-white,1,1,
+ClanDonations,0,,{Lvl} {level}: {progress} / {target},,0,,donations,,1,1,
+ClanWarsVeteran,1,,{Lvl} {level}: {progress} / {target},{progress},1,white_text,,bg-clan-war-veteran,1,0,/players/stats/cw1
+ClanWarWins,1,,{Lvl} {level}: {progress} / {target},{progress},1,white_text,,bg-cw2,1,0,/players/stats/cw2
+Classic12Wins,1,,{Lvl} {level}: {progress} / {target},,0,,,bg-cc,1,1,/players/cc_12wins
+CollectionLevel,0,,{Lvl} {level}: {progress} / {target},,0,,card-collection,bg-white,1,1,/players/stats/card_collection
+Creator,0,,,,0,,creator,,0,0,
+Crl20Wins,1,,,{progress},1,white_text,,bg-crl-2018,0,0,
+Crl20Wins2019,1,,,{progress},1,white_text,,bg-crl-2019,0,0,
+Crl20Wins2021,1,,,{progress},1,white_text,,bg-crl-2021,0,0,
+Crl20Wins2022,1,,,{progress},1,white_text,,bg-crl-2022,0,0,
+CrlCompetitor2022,0,,,,0,,crl-2022-competitor,,0,0,
+CrlSpectator2022,0,,,,0,,crl-2022-spectator,,0,0,
+Draft,0,,{Lvl} {level}: {progress} / {target},,0,,draft-wins,bg-white,1,1,/players/stats/draft
+EasterEgg,0,,,,0,,easter-egg,,0,0,
+EmoteCollection,1,,{Lvl} {level}: {progress} / {target},{progress},1,white_text,,bg-emotes,1,0,/players/stats/emote_collection
+Grand12Wins,1,,{Lvl} {level}: {progress} / {target},,0,,,bg-gc,1,1,/players/gc_12wins
+LadderTop1000,0,,{Lvl} {level}: {progress} / {target},,0,,top-ladder,bg-white,1,1,
+LadderTournamentTop1000,0,,{Lvl} {level}: {progress} / {target},,0,,royal-tournament,bg-white,1,1,
+RampUp,0,,{Lvl} {level}: {progress} / {target},,0,,ramp-up,bg-white,1,1,/players/stats/ramp_up
+SuddenDeath,0,,{Lvl} {level}: {progress} / {target},,0,,sudden-death,bg-white,1,1,/players/stats/sudden_death
+YearsPlayed,1,,,,0,i18n_duration_short,,bg-age,1,1,
